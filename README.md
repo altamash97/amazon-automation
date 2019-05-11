@@ -1,5 +1,5 @@
 # amazon-automation
-Simple automation scripts based on amazon
+Simple automation scripts based on amazon. This script is here to show that I have the ability to automate UI testing, and this can help companies save time when it comes to testing.
 
 # Installation
 1. Java jdk and jre
